@@ -1,7 +1,7 @@
 {
-  "name": "법원직 민법 퀴즈",
-  "short_name": "민법퀴즈",
-  "description": "법원직 시험 준비생을 위한 민법 OX 퀴즈 앱입니다.",
+  "name": "법원직 민사소송법 퀴즈",
+  "short_name": "민사소송법퀴즈",
+  "description": "법원직 시험 준비생을 위한 민사소송법 OX 퀴즈 앱입니다.",
   "start_url": "/law-quiz/",
   "scope": "/law-quiz/",
   "display": "standalone",
